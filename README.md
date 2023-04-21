@@ -12,7 +12,7 @@ This is a test website for a project on JavaScript Form Validation. The function
 
 ## Functions 
 
-The Form validation section takes a modular approach, as there are main scripts like `./js/loginScript.js ` and there is a control script `./controller.js `, where all the form validation happens. The data input is matched with the appropriate REGEX for a given field and based on success or failure, an array containing a boolean(true/false) and a message regarding where it is invalid or does not match the REGEX. 
+The Form validation section takes a modular approach, as there are main scripts like `./js/loginScript.js ` and there is a control script `./controller.js `, where all the form validation happens. The data input is matched with the appropriate REGEX for a given field and based on success or failure,returns an array containing a boolean(true/false) and a message regarding where it is invalid or does not match the REGEX. 
 
 You can find these in `./pages/loginAndReg/js ` folder.
 ## Contributing
